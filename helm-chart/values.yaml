@@ -17,7 +17,7 @@ service:
   
 color:
    circle: black
-   oval: black
+   oval: red
    triangle: black
    rectangle: black
    square: black    
